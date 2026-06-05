@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+
+# Model/cache artifacts
+.cache/
+model_cache/
+hf_cache/
+outputs/
+
+# Temporary result checkpoints
+*_tmp
+
+# Local/editor files
+.DS_Store
+.vscode/
+.idea/
